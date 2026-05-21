@@ -37,12 +37,7 @@ The 7th option is the most important.
 ### 4. Share the Result
 The builder will generate a `.html` file. Send this file to your special person via any messaging app or email. They just need to double-click to open it!
 
-## 🛡️ Security & Safety
-
-The `special.exe` is a lightweight tool. You can view the VirusTotal scan results below to ensure its safety.
-
-![VirusTotal Result](screenshots/virustotal_result.webp)
-[View Full VirusTotal Report](https://www.virustotal.com/gui/file/8f1f7d47dae4421f1c25d6916d4726aee5eb0de993be3b97daf8be22fd1e3cfe/detection)
-
+## Access the Builder
+Here is a demo video [Demo Video](https://youtu.be/RQWU9DaYhuE)
 ---
 *Created with ❤️ to help you make moments special.*
