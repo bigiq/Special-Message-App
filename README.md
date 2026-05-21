@@ -37,11 +37,10 @@ The 7th option is the most important.
 ### 4. Share the Result
 The builder will generate a `.html` file. Send this file to your special person via any messaging app or email. They just need to double-click to open it!
 
-## Access the Builder
-Here is a demo video:
-
-[![Special Message App Demo](https://img.youtube.com/vi/RQWU9DaYhuE/0.jpg )](https://youtu.be/RQWU9DaYhuE )
-
+## Video Of The Output
+Here is a demo [Video](https://youtu.be/RQWU9DaYhuE )
 ---
+
+
 
 *Created with ❤️ to help you make moments special.*
